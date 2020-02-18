@@ -7,3 +7,5 @@
 5、碰撞检测
 6、爆炸效果
 7、音效添加
+![image](https://github.com/zlz-git/Plane-Fight/blob/master/效果1.png)
+![image](https://github.com/zlz-git/Plane-Fight/blob/master/效果2.png)
